@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[echo '<pre>';var_dump( $1 );exit();]]></content>
+	<tabTrigger>dump</tabTrigger>
+	<description>php vardump</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[\$rootScope.\$broadcast( '$1', $2 );]]></content>
+	<tabTrigger>ngbroadcast</tabTrigger>
+	<description>angular broadcast</description>
+</snippet>

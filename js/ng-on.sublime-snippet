@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[\$rootScope.\$on( '$1', function(e, data) {
+	$2
+});]]></content>
+	<tabTrigger>ngon</tabTrigger>
+	<description>listener to broadcast</description>
+</snippet>

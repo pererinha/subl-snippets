@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[console.timeEnd('$0');;]]></content>
+	<tabTrigger>timere</tabTrigger>
+	<description>console.timer end</description>
+</snippet>

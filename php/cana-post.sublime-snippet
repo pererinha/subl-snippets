@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[\$this->request()[ '$0' ];]]></content>
+	<tabTrigger>cpost</tabTrigger>
+	<description>cana post</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[c::getPagePiece( $0 )]]></content>
+	<tabTrigger>piece</tabTrigger>
+	<description>cana querystring</description>
+</snippet>

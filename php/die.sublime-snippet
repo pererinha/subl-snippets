@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[die('hard');]]></content>
+	<tabTrigger>die</tabTrigger>
+	<description>php die</description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[console.debug((new Date()).getTime());]]></content>
+	<tabTrigger>dtime</tabTrigger>
+	<description>Date.getTime</description>
+</snippet>

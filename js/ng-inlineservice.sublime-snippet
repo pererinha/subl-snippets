@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[angular.element( 'html' ).injector().get( '$1' )]]></content>
+	<tabTrigger>inlineservice</tabTrigger>
+	<description>hack to get angular service</description>
+</snippet>

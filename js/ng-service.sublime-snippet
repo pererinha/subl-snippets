@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[//$0 Service
+NGApp.factory( '$0', function( \$http ){
+	var service = {};
+
+	return service;
+} );]]></content>
+	<tabTrigger>ngservice</tabTrigger>
+	<description>angular service</description>
+</snippet>

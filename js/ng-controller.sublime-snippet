@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[function $0Ctrl( \$scope ) {
+}]]></content>
+	<tabTrigger>controller</tabTrigger>
+	<description>angular controller</description>
+</snippet>
